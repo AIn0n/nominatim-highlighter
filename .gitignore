@@ -1,3 +1,6 @@
+# data related
+*.csv
+
 # nominatim related
 *.pbf
 
